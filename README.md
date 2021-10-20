@@ -9,9 +9,7 @@ Skills: REACT / JS / HTML / CSS / BOOTSTRAP / REACT BOOTSTRAP / REACT ROUTER / T
 - I’m currently learning React.
 
 
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=shakibul78)](https://github.com/ryo-ma/github-profile-trophy)
-
+ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shakibul78)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shakibul78&show_icons=true&count_private=true)  
