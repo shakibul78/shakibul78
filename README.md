@@ -6,7 +6,9 @@ I'm a Front End web developer.
 
 Skills: REACT / JS / HTML / CSS / BOOTSTRAP / REACT BOOTSTRAP / REACT ROUTER / TAILWINE CSS / FIREBASE CONSOLE
 
-- I’m currently working on Ema-jon 
+- I’m currently learning React.
+
+
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=shakibul78)](https://github.com/ryo-ma/github-profile-trophy)
 
